@@ -54,7 +54,7 @@ i.fa {
 .link {
     display: block;
     background-color: rgba(66, 110, 255, 0.2);
-    color: #fff;
+    color: #000000;
     text-align: center;
     margin-bottom: 20px;
     padding: 17px;
@@ -68,6 +68,6 @@ i.fa {
 
 .link:hover {
     background-color: rgba(255, 255, 255, 0.3);
-    color: #000000;
+    color: #fff;
     border: none;
 }
