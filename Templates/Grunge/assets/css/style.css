@@ -3,11 +3,11 @@
 
 html {
     background: url('../images/grunge-background-2.jpg');
-    background-repeat: repeat;
 }
 
 body {
     background: url('../images/grunge-background-2.jpg');
+    background-repeat: repeat;
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
 }
